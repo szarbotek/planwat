@@ -1,0 +1,343 @@
+:root {
+    --today-color: #f65cd0; /* Twój fioletowy kolor */ 
+}
+
+
+body {
+    background-color: #f1f5f9;
+    margin: 0;
+    padding-top: 70px; /* Miejsce na przyklejony górny pasek */
+    font-family: Arial, sans-serif;
+}
+
+/* PRIORYTETOWY PRZYKLEJONY GÓRNY PASEK MENU */
+.top-navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    background-color: #715f94;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    z-index: 1000; /* Zapewnia ciągłą widoczność na wierzchu */
+}
+
+.navbar-title {
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Przyciski nawigacyjne do miesięcy w menu */
+.navbar-months {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+}
+
+.nav-btn {
+    background-color: #334155;
+    color: #f8fafc;
+    border: 1px solid #475569;
+    padding: 5px 10px;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.nav-btn:hover {
+    background-color: #3b82f6;
+    color: #ffffff;
+}
+
+.nav-btn.active {
+    background-color: #2563eb;
+    border-color: #60a5fa;
+}
+
+/* Przycisk powrotu do bieżącego miesiąca */
+.btn-today {
+    background-color: #10b981;
+    border-color: #059669;
+}
+
+.btn-today:hover {
+    background-color: #059669;
+}
+
+/* CSS kalendarza */
+.month-container {
+    margin: 0 auto 40px auto;
+    max-width: 1200px;
+    scroll-margin-top: 185px; /* Zapobiega zasłanianiu nagłówka przez pasek przy przewijaniu */
+}
+
+.month-container.is-current .month-header {
+    background-color: #cf32b0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.month-header {
+    background-color: #4A607A;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+    border: 2px solid #333;
+    text-transform: uppercase;
+}
+
+/* Wyróżnienie tagu aktualnego dnia na czerwono */
+.day-number.is-today {
+    background-color: var(--today-color);
+    color: #060505;            /* Biały tekst dla kontrastu */
+    font-weight: bold;
+}
+
+table.calendar-grid {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    border: 2px solid #333;
+    margin-top: 10px;
+    background-color: #ffffff;
+}
+
+table.calendar-grid th {
+    background-color: #d0d7de;
+    border: 1px solid #444;
+    padding: 8px 0;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+}
+
+table.calendar-grid th.time-header-col {
+    width: 110px;
+    background-color: #b8c4d0;
+}
+
+table.calendar-grid td {
+    border: 1px solid #ccc;
+    padding: 2px;
+    height: 280px;
+    vertical-align: top;
+}
+
+table.calendar-grid td.other-month {
+    background-color: #f8fafc;
+}
+
+.day-box {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.day-number {
+    background-color: #4a5a7d;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: right;
+    padding: 4px 6px;
+    border-bottom: 1px solid #cbd5e1;
+    color: #cfd2d6;
+    height: 28px;
+    line-height: 22px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.time-box .day-number {
+    text-align: center;
+    background-color: #cbd5e1;
+}
+
+td.other-month .day-number {
+    background-color: #cbd5e1;
+    color: #64748b;
+}
+
+.day-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2px 0;
+    gap: 2px;
+}
+
+.block-slot {
+    flex: 1;
+    border: 1px dashed #cbd5e1;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+
+.time-slot-label {
+    background-color: #f1f5f9;
+    border: 1px solid #cbd5e1;
+    font-weight: bold;
+}
+
+.slot-title {
+    font-size: 10px;
+    color: #0f172a;
+    font-weight: bold;
+}
+
+.slot-time {
+    font-size: 9px;
+    color: #475569;
+}
+
+/* 
+======== ======== ======== ======== ======== ======== ======== ======== ======== ======== ========
+
+======== ======== ======== ======== ======== ======== ======== ======== ======== ======== ========
+*/
+/* Stylizacja interaktywnego okna przedmiotów w navbarze */
+.subjects-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.subjects-btn {
+    background-color: #f2931e;
+    color: #000000;
+    border: 1px solid #475569;
+    padding: 12px 12px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.subjects-btn:hover {
+    background-color: #3b82f6;
+}
+
+.subjects-modal {
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 600px;
+    max-height: 950px;
+    overflow-y: auto;
+    background-color: #ffffff;
+    color: #1e293b;
+    border: 2px solid #334155;
+    border-radius: 6px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    z-index: 2000;
+    padding: 10px;
+}
+
+.subjects-modal.open {
+    display: block;
+}
+
+/* Tabelka przedmiotów */
+table.subjects-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    text-align: left;
+}
+
+table.subjects-table th {
+    background-color: #f1f5f9;
+    color: #0f172a;
+    padding: 8px;
+    border-bottom: 2px solid #cbd5e1;
+}
+
+table.subjects-table td {
+    padding: 6px 8px;
+    border-bottom: 1px solid #e2e8f0;
+    vertical-align: top;
+}
+
+/* Fioletowe tło dla numeru dnia w weekendy */
+td.weekend .day-number {
+    background-color: #c2c3c5; /* Fioletowe tło */
+    color: #6b6e71;            /* Biały tekst dla czytelności */
+}
+
+/* Fioletowe tło dla numeru dnia w weekendy */
+td.weekend .block-slot {
+    background-color: #e0e2e6; /* Fioletowe tło */
+}
+
+
+/* Zachowanie czerwonego tła, jeśli dzisiejszy dzień wypada w weekend */
+td.weekend .day-number.is-today {
+    background-color: var(--today-color);
+    color: #ffffff;
+}
+
+
+
+.sub-code {
+    font-weight: bold;
+    text-align: center;
+    border-radius: 3px;
+    color: #0f172a;
+}
+
+.sub-classes code {
+    background-color: #f1f5f9;
+    padding: 1px 4px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+
+/* 
+======   ======   ======   ======   ======   ======   ======   ======   ======   ======   
+
+======   ======   ======   ======   ======   ======   ======   ======   ======   ======   
+*/
+/* Stylizacja karty zajęć umieszczanej w slocie */
+.class-card {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    box-sizing: border-box;
+    padding: 1px;
+}
+
+.class-title {
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 1.1;
+    color: #0f172a;
+}
+
+.class-info {
+    font-size: 8px;
+    color: #334155;
+    margin-top: 1px;
+}

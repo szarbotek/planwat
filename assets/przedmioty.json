@@ -1,0 +1,320 @@
+[
+  {
+    "code": "AsmW",
+    "name": "Aplikacje systemów mikroprocesorowych PW",
+    "color": "#B3E8D2",
+    "classes": [
+      {
+        "type_hours": "w 10",
+        "teacher": "dr inż. Dąbal Paweł"
+      },
+      {
+        "type_hours": "L 20",
+        "teacher": "dr inż. Dąbal Paweł"
+      }
+    ]
+  },
+  {
+    "code": "Ikwm",
+    "name": "Interfejsy komunikacji wewnątrz i międzyukładowej",
+    "color": "#96C4EE",
+    "classes": [
+      {
+        "type_hours": "w 6",
+        "teacher": "dr inż. Poniecki Andrzej"
+      },
+      {
+        "type_hours": "w 4",
+        "teacher": "dr inż. Jachna Zbigniew"
+      },
+      {
+        "type_hours": "L 8",
+        "teacher": "dr inż. Poniecki Andrzej"
+      },
+      {
+        "type_hours": "L 4",
+        "teacher": "dr inż. Jachna Zbigniew"
+      },
+      {
+        "type_hours": "P 2",
+        "teacher": "dr inż. Poniecki Andrzej"
+      },
+      {
+        "type_hours": "P 4",
+        "teacher": "dr inż. Jachna Zbigniew"
+      },
+      {
+        "type_hours": "S 2",
+        "teacher": "dr inż. Jachna Zbigniew"
+      }
+    ]
+  },
+  {
+    "code": "Kwti",
+    "name": "Kwantowe technologie informatyczne",
+    "color": "#C3B1F4",
+    "classes": [
+      {
+        "type_hours": "w 18",
+        "teacher": "dr hab. inż. (prof. ucz.) Życzkowski Marek"
+      },
+      {
+        "type_hours": "ć 4",
+        "teacher": "mgr inż. Henry Samuel"
+      },
+      {
+        "type_hours": "L 4",
+        "teacher": "mgr inż. Fiderkiewicz Szymon"
+      },
+      {
+        "type_hours": "L 4",
+        "teacher": "mgr inż. Smith Victor"
+      },
+      {
+        "type_hours": "L 8",
+        "teacher": "mgr inż. Żołnowski Wojciech"
+      }
+    ]
+  },
+  {
+    "code": "Mn",
+    "name": "Metody numeryczne",
+    "color": "#FFFFCE",
+    "classes": [
+      {
+        "type_hours": "w 18",
+        "teacher": "dr inż. Czyżewski Mirosław"
+      },
+      {
+        "type_hours": "ć 6",
+        "teacher": "mgr inż. Pomarańska Patrycja"
+      },
+      {
+        "type_hours": "L 6",
+        "teacher": "mgr inż. Pomarańska Patrycja"
+      },
+      {
+        "type_hours": "L 6",
+        "teacher": "mgr inż. Rogala Tomasz"
+      }
+    ]
+  },
+  {
+    "code": "PpuV2",
+    "name": "Podstawy projektowania układów VLSI 2",
+    "color": "#DDD08A",
+    "classes": [
+      {
+        "type_hours": "w 10",
+        "teacher": "prof. dr hab. inż. Szplet Ryszard"
+      },
+      {
+        "type_hours": "L 4",
+        "teacher": "dr inż. Kwiatkowski Paweł"
+      },
+      {
+        "type_hours": "P 24",
+        "teacher": "dr inż. Kwiatkowski Paweł"
+      },
+      {
+        "type_hours": "S 6",
+        "teacher": "dr inż. Kwiatkowski Paweł"
+      }
+    ]
+  },
+  {
+    "code": "Puma PW",
+    "name": "Podstawy uczenia maszynowego PW",
+    "color": "#9FE0E6",
+    "classes": [
+      {
+        "type_hours": "w 20",
+        "teacher": "prof.dr hab. Osowski Stanisław"
+      },
+      {
+        "type_hours": "L 10",
+        "teacher": "dr inż. Białek Kamila"
+      },
+      {
+        "type_hours": "L 10",
+        "teacher": "mgr inż. Chmielińska Jolanta"
+      }
+    ]
+  },
+  {
+    "code": "Panc",
+    "name": "Przetworniki analogowo-cyfrowe",
+    "color": "#89E1F4",
+    "classes": [
+      {
+        "type_hours": "w 10",
+        "teacher": "prof. dr hab. inż. Szplet Ryszard"
+      },
+      {
+        "type_hours": "L 4",
+        "teacher": "dr inż. Jachna Zbigniew"
+      },
+      {
+        "type_hours": "P 12",
+        "teacher": "dr inż. Jachna Zbigniew"
+      },
+      {
+        "type_hours": "S 4",
+        "teacher": "dr inż. Jachna Zbigniew"
+      }
+    ]
+  },
+  {
+    "code": "TśwW",
+    "name": "Technika światłowodowa PW",
+    "color": "#95C995",
+    "classes": [
+      {
+        "type_hours": "w 12",
+        "teacher": "dr hab. inż. (prof. ucz.) Życzkowski Marek"
+      },
+      {
+        "type_hours": "ć 6",
+        "teacher": "dr inż. Pawlikowska Estera"
+      },
+      {
+        "type_hours": "L 6",
+        "teacher": "mgr inż. Fiderkiewicz Szymon"
+      },
+      {
+        "type_hours": "L 6",
+        "teacher": "mgr inż. Żołnowski Wojciech"
+      }
+    ]
+  },
+  {
+    "code": "UmtW",
+    "name": "Układy mikroelektroniczne w technice i medycynie PW",
+    "color": "#87B6EC",
+    "classes": [
+      {
+        "type_hours": "w 6",
+        "teacher": "dr hab. inż. Sondej Tadeusz"
+      },
+      {
+        "type_hours": "w 4",
+        "teacher": "dr inż. Sondej Dominik"
+      },
+      {
+        "type_hours": "L 4",
+        "teacher": "dr hab. inż. Sondej Tadeusz"
+      },
+      {
+        "type_hours": "L 8",
+        "teacher": "dr inż. Sondej Dominik"
+      },
+      {
+        "type_hours": "P 8",
+        "teacher": "dr inż. Sondej Dominik"
+      }
+    ]
+  },
+  {
+    "code": "UkrW",
+    "name": "Urządzenia krańcowe IoT PW",
+    "color": "#B188D0",
+    "classes": [
+      {
+        "type_hours": "w 10",
+        "teacher": "dr inż. Sieczkowski Krzysztof"
+      },
+      {
+        "type_hours": "L 12",
+        "teacher": "dr inż. Sieczkowski Krzysztof"
+      },
+      {
+        "type_hours": "P 8",
+        "teacher": "dr inż. Sieczkowski Krzysztof"
+      }
+    ]
+  },
+  {
+    "code": "ZamW",
+    "name": "Zaawansowane architektury mikrokontrolerów PW",
+    "color": "#CDC5CD",
+    "classes": [
+      {
+        "type_hours": "w 8",
+        "teacher": "dr inż. Dąbal Paweł"
+      },
+      {
+        "type_hours": "L 12",
+        "teacher": "dr inż. Dąbal Paweł"
+      },
+      {
+        "type_hours": "P 8",
+        "teacher": "dr inż. Dąbal Paweł"
+      },
+      {
+        "type_hours": "S 2",
+        "teacher": "dr inż. Dąbal Paweł"
+      }
+    ]
+  },
+  {
+    "code": "Zmprog PW",
+    "name": "Zaawansowane metody programistyczne PW",
+    "color": "#8DF1DF",
+    "classes": [
+      {
+        "type_hours": "w 14",
+        "teacher": "dr inż. Górski Tomasz"
+      },
+      {
+        "type_hours": "L 16",
+        "teacher": "dr inż. Górski Tomasz"
+      },
+      {
+        "type_hours": "L 16",
+        "teacher": "mgr inż. Floriańczyk Marek"
+      }
+    ]
+  },
+  {
+    "code": "Zum",
+    "name": "Zasilanie układów mikroelektronicznych",
+    "color": "#7EC5A9",
+    "classes": [
+      {
+        "type_hours": "w 18",
+        "teacher": "dr hab. inż. Watral Zbigniew"
+      },
+      {
+        "type_hours": "L 12",
+        "teacher": "dr hab. inż. Watral Zbigniew"
+      },
+      {
+        "type_hours": "L 12",
+        "teacher": "mgr. inż. Piwowarski Karol"
+      }
+    ]
+  },
+  {
+    "code": "ZscyW",
+    "name": "Zintegrowane systemy cyfrowe PW",
+    "color": "#FAF1BC",
+    "classes": [
+      {
+        "type_hours": "w 8",
+        "teacher": "dr inż. Dąbal Paweł"
+      },
+      {
+        "type_hours": "L 8",
+        "teacher": "dr inż. Dąbal Paweł"
+      },
+      {
+        "type_hours": "P 12",
+        "teacher": "dr inż. Dąbal Paweł"
+      },
+      {
+        "type_hours": "S 2",
+        "teacher": "dr inż. Dąbal Paweł"
+      }
+    ]
+  }
+]

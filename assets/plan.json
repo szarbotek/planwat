@@ -1,0 +1,7401 @@
+[
+  {
+    "day": 5,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "2": {
+        "przedmiot": "Ikwm",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#96C4EE"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 12,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "Ikwm",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#96C4EE"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 19,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "2": {
+        "przedmiot": "Ikwm",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#96C4EE"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 26,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "2": {
+        "przedmiot": "Mn",
+        "typ": "ć",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "3": {
+        "przedmiot": "Ikwm",
+        "typ": "w",
+        "sala": "19 47",
+        "bgcolor": "#96C4EE"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 2,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "2": {
+        "przedmiot": "Ikwm",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#96C4EE"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 9,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "2": {
+        "przedmiot": "Kwti",
+        "typ": "ć",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "3": {
+        "przedmiot": "ZscyW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "4": {
+        "przedmiot": "ZscyW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 16,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "L",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "Panc",
+        "typ": "L",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "3": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "4": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 23,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "ZscyW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "2": {
+        "przedmiot": "ZscyW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "3": {
+        "przedmiot": "Ikwm",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#96C4EE"
+      },
+      "4": {
+        "przedmiot": "Ikwm",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#96C4EE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 30,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "Panc",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "3": {
+        "przedmiot": "ZamW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "4": {
+        "przedmiot": "ZamW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 7,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "Panc",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "3": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "4": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 14,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "Panc",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#89E1F4"
+      },
+      "3": {
+        "przedmiot": "UkrW",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "4": {
+        "przedmiot": "UkrW",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 21,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "PpuV2",
+        "typ": "S",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "S",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "PpuV2",
+        "typ": "S",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "4": {
+        "przedmiot": "TśwW",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#95C995"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 28,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 4,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 11,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "S",
+        "sala": "120 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "Panc",
+        "typ": "S",
+        "sala": "120 45",
+        "bgcolor": "#89E1F4"
+      },
+      "3": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "4": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 18,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "ZscyW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "2": {
+        "przedmiot": "ZscyW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "3": {
+        "przedmiot": "Ikwm",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#96C4EE"
+      },
+      "4": {
+        "przedmiot": "Ikwm",
+        "typ": "P",
+        "sala": "19 45",
+        "bgcolor": "#96C4EE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 25,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "TśwW",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#95C995"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "Ikwm",
+        "typ": "S",
+        "sala": "120 45",
+        "bgcolor": "#96C4EE"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 1,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 8,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 15,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 22,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 6,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "ZscyW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "3": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "4": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 13,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "UmtW",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#87B6EC"
+      },
+      "3": {
+        "przedmiot": "PpuV2",
+        "typ": "w",
+        "sala": "117 45",
+        "bgcolor": "#DDD08A"
+      },
+      "4": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 20,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "ZscyW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315b S",
+        "bgcolor": "#9FE0E6"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 27,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "ZscyW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 3,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Panc",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#89E1F4"
+      },
+      "2": {
+        "przedmiot": "ZscyW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "3": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "4": {
+        "przedmiot": "Zmprog PW",
+        "typ": "L",
+        "sala": "7 61",
+        "bgcolor": "#8DF1DF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 10,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "ZamW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "4": {
+        "przedmiot": "ZamW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 17,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "UmtW",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "4": {
+        "przedmiot": "UmtW",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "5": {
+        "przedmiot": "UkrW",
+        "typ": "w",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 24,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "AsmW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 1,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "UmtW",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "4": {
+        "przedmiot": "UmtW",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 8,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "4": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 15,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "UmtW",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "4": {
+        "przedmiot": "UmtW",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 22,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "2": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "3": {
+        "przedmiot": "Ikwm",
+        "typ": "L",
+        "sala": "19 45",
+        "bgcolor": "#96C4EE"
+      },
+      "4": {
+        "przedmiot": "Ikwm",
+        "typ": "L",
+        "sala": "19 45",
+        "bgcolor": "#96C4EE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 29,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 5,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 12,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "ZscyW",
+        "typ": "S",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "2": {
+        "przedmiot": "ZamW",
+        "typ": "S",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "3": {
+        "przedmiot": "UmtW",
+        "typ": "P",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "4": {
+        "przedmiot": "UmtW",
+        "typ": "P",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 19,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "ZamW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "2": {
+        "przedmiot": "ZamW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "3": {
+        "przedmiot": "ZamW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "4": {
+        "przedmiot": "ZamW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 26,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "2": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "3": {
+        "przedmiot": "UmtW",
+        "typ": "P",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "4": {
+        "przedmiot": "UmtW",
+        "typ": "P",
+        "sala": "16 45",
+        "bgcolor": "#87B6EC"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 2,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 9,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 16,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 23,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 7,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "ZamW",
+        "typ": "w",
+        "sala": "117 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 14,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "ZamW",
+        "typ": "w",
+        "sala": "117 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "2": {
+        "przedmiot": "TśwW",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 21,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "UmtW",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#87B6EC"
+      },
+      "2": {
+        "przedmiot": "UkrW",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#B188D0"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "Mn",
+        "typ": "ć",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 28,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "ZamW",
+        "typ": "w",
+        "sala": "117 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "Panc",
+        "typ": "w",
+        "sala": "2 45",
+        "bgcolor": "#89E1F4"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 4,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "UmtW",
+        "typ": "w",
+        "sala": "18 45",
+        "bgcolor": "#87B6EC"
+      },
+      "2": {
+        "przedmiot": "PpuV2",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#DDD08A"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 11,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 18,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "UkrW",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "2": {
+        "przedmiot": "UkrW",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "3": {
+        "przedmiot": "Mn",
+        "typ": "ć",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "4": {
+        "przedmiot": "Kwti",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 25,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "L",
+        "sala": "058 S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "Zum",
+        "typ": "L",
+        "sala": "058 S",
+        "bgcolor": "#7EC5A9"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "Kwti",
+        "typ": "ć",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 2,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "UkrW",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "2": {
+        "przedmiot": "UkrW",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "3": {
+        "przedmiot": "Kwti",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "4": {
+        "przedmiot": "Mn",
+        "typ": "L",
+        "sala": "132 61A",
+        "bgcolor": "#FFFFCE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 9,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "L",
+        "sala": "058 S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "Zum",
+        "typ": "L",
+        "sala": "058 S",
+        "bgcolor": "#7EC5A9"
+      },
+      "3": {
+        "przedmiot": "Mn",
+        "typ": "L",
+        "sala": "132 61A",
+        "bgcolor": "#FFFFCE"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 16,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Ikwm",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#96C4EE"
+      },
+      "2": {
+        "przedmiot": "Ikwm",
+        "typ": "L",
+        "sala": "16 45",
+        "bgcolor": "#96C4EE"
+      },
+      "3": {
+        "przedmiot": "ZscyW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "4": {
+        "przedmiot": "ZscyW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 23,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 30,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 6,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 13,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "L",
+        "sala": "049 S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "Zum",
+        "typ": "L",
+        "sala": "049 S",
+        "bgcolor": "#7EC5A9"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "L",
+        "sala": "86 S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 20,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "UkrW",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "2": {
+        "przedmiot": "UkrW",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "3": {
+        "przedmiot": "Kwti",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 27,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 3,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 10,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 17,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 24,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 1,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "UmtW",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#87B6EC"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 8,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "UmtW",
+        "typ": "w",
+        "sala": "118 45",
+        "bgcolor": "#87B6EC"
+      },
+      "3": {
+        "przedmiot": "Zmprog PW",
+        "typ": "w",
+        "sala": "119 45",
+        "bgcolor": "#8DF1DF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 15,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zmprog PW",
+        "typ": "w",
+        "sala": "119 45",
+        "bgcolor": "#8DF1DF"
+      },
+      "2": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 22,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "Zmprog PW",
+        "typ": "w",
+        "sala": "119 45",
+        "bgcolor": "#8DF1DF"
+      },
+      "3": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 29,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "35 61a",
+        "bgcolor": "#FFFFCE"
+      },
+      "2": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "3": {
+        "przedmiot": "AsmW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 5,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "Zmprog PW",
+        "typ": "w",
+        "sala": "15 47",
+        "bgcolor": "#8DF1DF"
+      },
+      "3": {
+        "przedmiot": "PpuV2",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "4": {
+        "przedmiot": "PpuV2",
+        "typ": "L",
+        "sala": "18 45",
+        "bgcolor": "#DDD08A"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 12,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 19,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "2": {
+        "przedmiot": "Zmprog PW",
+        "typ": "w",
+        "sala": "119 45",
+        "bgcolor": "#8DF1DF"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "L",
+        "sala": "86 S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 26,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "ZamW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "2": {
+        "przedmiot": "ZamW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "L",
+        "sala": "86 S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 3,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "TśwW",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#95C995"
+      },
+      "2": {
+        "przedmiot": "Puma PW",
+        "typ": "L",
+        "sala": "86 S",
+        "bgcolor": "#9FE0E6"
+      },
+      "3": {
+        "przedmiot": "Ikwm",
+        "typ": "P",
+        "sala": "16 45",
+        "bgcolor": "#96C4EE"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 10,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "TśwW",
+        "typ": "ć",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "2": {
+        "przedmiot": "TśwW",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#95C995"
+      },
+      "3": {
+        "przedmiot": "Puma PW",
+        "typ": "L",
+        "sala": "86 S",
+        "bgcolor": "#9FE0E6"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 17,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "2": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "3": {
+        "przedmiot": "Kwti",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "4": {
+        "przedmiot": "Mn",
+        "typ": "L",
+        "sala": "132 61A",
+        "bgcolor": "#FFFFCE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 24,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 31,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 7,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "ZscyW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "2": {
+        "przedmiot": "ZscyW",
+        "typ": "P",
+        "sala": "205 45",
+        "bgcolor": "#FAF1BC"
+      },
+      "3": {
+        "przedmiot": "UkrW",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "4": {
+        "przedmiot": "UkrW",
+        "typ": "P",
+        "sala": "18 45",
+        "bgcolor": "#B188D0"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 14,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "L",
+        "sala": "14 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 21,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "2": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 28,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "2": {
+        "przedmiot": "AsmW",
+        "typ": "L",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 4,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 11,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 18,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 25,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 2,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "2": {
+        "przedmiot": "UkrW",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#B188D0"
+      },
+      "3": {
+        "przedmiot": "Zmprog PW",
+        "typ": "w",
+        "sala": "119 45",
+        "bgcolor": "#8DF1DF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 9,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "2": {
+        "przedmiot": "UkrW",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#B188D0"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 16,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "2": {
+        "przedmiot": "ZamW",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#CDC5CD"
+      },
+      "3": {
+        "przedmiot": "Zmprog PW",
+        "typ": "w",
+        "sala": "119 45",
+        "bgcolor": "#8DF1DF"
+      },
+      "4": {
+        "przedmiot": "Mn",
+        "typ": "w",
+        "sala": "117 45",
+        "bgcolor": "#FFFFCE"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 23,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "2": {
+        "przedmiot": "UkrW",
+        "typ": "w",
+        "sala": "116 45",
+        "bgcolor": "#B188D0"
+      },
+      "3": {
+        "przedmiot": "AsmW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 30,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "2": {
+        "przedmiot": "AsmW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "3": {
+        "przedmiot": "Zum",
+        "typ": "w",
+        "sala": "315a S",
+        "bgcolor": "#7EC5A9"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 6,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "2": {
+        "przedmiot": "TśwW",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "ć",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 13,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 20,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "Kwti",
+        "typ": "w",
+        "sala": "4 41",
+        "bgcolor": "#C3B1F4"
+      },
+      "2": {
+        "przedmiot": "AsmW",
+        "typ": "w",
+        "sala": "205 45",
+        "bgcolor": "#B3E8D2"
+      },
+      "3": {
+        "przedmiot": "TśwW",
+        "typ": "ć",
+        "sala": "4 41",
+        "bgcolor": "#95C995"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 27,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 4,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 11,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 18,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 25,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 1,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 8,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 15,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 22,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 29,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 5,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 12,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 19,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 26,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 3,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 10,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 17,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 24,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 31,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 7,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 14,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 21,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 28,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 5,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 12,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 19,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 26,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 2,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 9,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 16,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 23,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 30,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 6,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 13,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 20,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 27,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 4,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 11,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 18,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 25,
+    "month": "X",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 1,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 8,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 15,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 22,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 29,
+    "month": "XI",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 6,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 13,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 20,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 27,
+    "month": "XII",
+    "year": 2026,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 3,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 10,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 17,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 24,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 31,
+    "month": "I",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 7,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 14,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 21,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  },
+  {
+    "day": 28,
+    "month": "II",
+    "year": 2027,
+    "plan": {
+      "1": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "2": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "3": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "4": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "5": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "6": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      },
+      "7": {
+        "przedmiot": "",
+        "typ": "",
+        "sala": "",
+        "bgcolor": "#FFFFFF"
+      }
+    }
+  }
+]

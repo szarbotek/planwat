@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Siatka Miesiąca z Godzinami - Październik</title>
+    <style>
+        .month-container {
+            font-family: Arial, sans-serif;
+            margin: 20px auto;
+            max-width: 1100px;
+        }
+        .month-header {
+            background-color: #4A607A;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+            padding: 12px;
+            border: 2px solid #333;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        /* Kontener do umieszczenia kalendarza i siatki godzin obok siebie */
+        .grid-wrapper {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+            align-items: stretch;
+        }
+
+        table.calendar-grid {
+            flex: 1;
+            border-collapse: collapse;
+            table-layout: fixed;
+            border: 2px solid #333;
+        }
+        /* Nagłówki dni tygodnia */
+        table.calendar-grid th {
+            background-color: #d0d7de;
+            border: 1px solid #444;
+            padding: 8px 0;
+            font-weight: bold;
+            font-size: 13px;
+            text-align: center;
+        }
+        /* Główna komórka kalendarza */
+        table.calendar-grid td {
+            border: 1px solid #ccc;
+            padding: 2px;
+            height: 80px;
+            vertical-align: top;
+        }
+        /* Dni spoza bieżącego miesiąca */
+        table.calendar-grid td.other-month {
+            background-color: #f4f4f4;
+        }
+        /* Obiekt dzielący komórkę na część górną i dolną */
+        .day-box {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            box-sizing: border-box;
+        }
+        /* Górna komórka (numer dnia) */
+        .day-number {
+            background-color: #e2e8f0;
+            font-weight: bold;
+            font-size: 12px;
+            text-align: right;
+            padding: 3px 6px;
+            border-bottom: 1px solid #cbd5e1;
+            color: #1e293b;
+        }
+        td.other-month .day-number {
+            background-color: #cbd5e1;
+            color: #64748b;
+        }
+        /* Dolna komórka (na zajęcia) */
+        .day-content {
+            flex-grow: 1;
+            padding: 4px;
+        }
+
+        /* Stylizacja bocznej siatki godzin */
+        .time-schedule {
+            width: 180px;
+            display: flex;
+            flex-direction: column;
+            border: 2px solid #333;
+            background-color: #f8fafc;
+        }
+        .time-header {
+            background-color: #d0d7de;
+            border-bottom: 1px solid #444;
+            padding: 8px 0;
+            font-weight: bold;
+            font-size: 13px;
+            text-align: center;
+        }
+        .time-slots {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            flex-grow: 1;
+            padding: 5px 0;
+        }
+        .time-slot {
+            background-color: #ffffff;
+            border: 1px solid #cbd5e1;
+            margin: 2px 6px;
+            padding: 6px;
+            text-align: center;
+            border-radius: 4px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .slot-title {
+            font-weight: bold;
+            font-size: 12px;
+            color: #1e293b;
+        }
+        .slot-time {
+            font-size: 11px;
+            color: #475569;
+            margin-top: 2px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="month-container">
+    <div class="month-header">PAŹDZIERNIK (1 X - 31 X)</div>
+    
+    <div class="grid-wrapper">
+        <!-- Kalendarz -->
+        <table class="calendar-grid">
+            <thead>
+                <tr>
+                    <th>pon.</th>
+                    <th>wt.</th>
+                    <th>śr.</th>
+                    <th>czw.</th>
+                    <th>pt.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Wiersz 1/5 -->
+                <tr>
+                    <td class="other-month"><div class="day-box"><div class="day-number">28 IX</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">29 IX</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">30 IX</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">1 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">2 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 2/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">5 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">6 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">7 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">8 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">9 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 3/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">12 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">13 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">14 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">15 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">16 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 4/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">19 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">20 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">21 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">22 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">23 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 5/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">26 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">27 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">28 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">29 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">30 X</div><div class="day-content"></div></div></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Boczną siatka godzin -->
+        <div class="time-schedule">
+            <div class="time-header">Godziny zajęć</div>
+            <div class="time-slots">
+                <div class="time-slot">
+                    <div class="slot-title">Blok 1 – 2</div>
+                    <div class="slot-time">08:00 – 09:35</div>
+                </div>
+                <div class="time-slot">
+                    <div class="slot-title">Blok 3 – 4</div>
+                    <div class="slot-time">09:50 – 11:25</div>
+                </div>
+                <div class="time-slot">
+                    <div class="slot-title">Blok 5 – 6</div>
+                    <div class="slot-time">11:40 – 13:15</div>
+                </div>
+                <div class="time-slot">
+                    <div class="slot-title">Blok 7 – 8</div>
+                    <div class="slot-time">13:30 – 15:05</div>
+                </div>
+                <div class="time-slot">
+                    <div class="slot-title">Blok 9 – 10</div>
+                    <div class="slot-time">16:00 – 17:35</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

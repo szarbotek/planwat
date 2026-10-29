@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Plan Zajęć - Październik</title>
+    <style>
+        .month-container {
+            font-family: Arial, sans-serif;
+            margin: 20px auto;
+            max-width: 100%;
+            overflow-x: auto;
+        }
+        .month-header {
+            background-color: #4A607A;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+            padding: 10px;
+            border: 2px solid #333;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        table.plan-month {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 11px;
+            text-align: center;
+            table-layout: fixed;
+            border: 2px solid #333;
+        }
+        /* Pogrubienie i stylizacja wszystkich nagłówków */
+        table.plan-month th {
+            border: 1px solid #444;
+            padding: 6px 2px;
+            background-color: #d0d7de;
+            font-weight: bold;
+            font-size: 11px;
+        }
+        /* Pogrubione linie nagłówkowe */
+        table.plan-month thead tr {
+            border-bottom: 2.5pt solid #333;
+        }
+        table.plan-month td {
+            border: 1px solid #ccc;
+            padding: 4px;
+            height: 45px;
+            vertical-align: middle;
+            word-wrap: break-word;
+        }
+        .time-col {
+            width: 55px;
+            background-color: #eaeaea;
+            font-weight: bold;
+            border-right: 2pt solid #444 !important;
+        }
+        .zajecia {
+            font-weight: bold;
+            display: block;
+            font-size: 11px;
+        }
+        .info {
+            font-size: 9px;
+            color: #222;
+        }
+        .day-header {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="month-container">
+    <div class="month-header">PAŹDZIERNIK</div>
+    <table class="plan-month">
+        <thead>
+            <!-- Wiersz 1: Dni tygodnia z datami -->
+            <tr>
+                <th class="time-col" rowspan="2">Blok</th>
+                <th colspan="4" class="day-header"><b>poniedziałek</b></th>
+                <th colspan="4" class="day-header"><b>wtorek</b></th>
+                <th colspan="4" class="day-header"><b>środa</b></th>
+                <th colspan="5" class="day-header"><b>czwartek</b></th>
+                <th colspan="5" class="day-header"><b>piątek</b></th>
+            </tr>
+            <!-- Wiersz 2: Konkretne daty -->
+            <tr>
+                <!-- Poniedziałki -->
+                <th><b>pon.<br>(05.X)</b></th>
+                <th><b>pon.<br>(12.X)</b></th>
+                <th><b>pon.<br>(19.X)</b></th>
+                <th><b>pon.<br>(26.X)</b></th>
+                
+                <!-- Wtorki -->
+                <th><b>wt.<br>(06.X)</b></th>
+                <th><b>wt.<br>(13.X)</b></th>
+                <th><b>wt.<br>(20.X)</b></th>
+                <th><b>wt.<br>(27.X)</b></th>
+                
+                <!-- Środy -->
+                <th><b>śr.<br>(07.X)</b></th>
+                <th><b>śr.<br>(14.X)</b></th>
+                <th><b>śr.<br>(21.X)</b></th>
+                <th><b>śr.<br>(28.X)</b></th>
+                
+                <!-- Czwartki -->
+                <th><b>czw.<br>(01.X)</b></th>
+                <th><b>czw.<br>(08.X)</b></th>
+                <th><b>czw.<br>(15.X)</b></th>
+                <th><b>czw.<br>(22.X)</b></th>
+                <th><b>czw.<br>(29.X)</b></th>
+                
+                <!-- Piątki -->
+                <th><b>pt.<br>(02.X)</b></th>
+                <th><b>pt.<br>(09.X)</b></th>
+                <th><b>pt.<br>(16.X)</b></th>
+                <th><b>pt.<br>(23.X)</b></th>
+                <th><b>pt.<br>(30.X)</b></th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- BLOK 1-2 -->
+            <tr>
+                <td class="time-col"><b>1-2</b></td>
+                <!-- Poniedziałki -->
+                <td bgcolor="#FFFFCE"><span class="zajecia">Mn w</span><span class="info">35 61a</span></td>
+                <td></td>
+                <td bgcolor="#FFFFCE"><span class="zajecia">Mn w</span><span class="info">35 61a</span></td>
+                <td bgcolor="#FFFFCE"><span class="zajecia">Mn w</span><span class="info">35 61a</span></td>
+                
+                <!-- Wtorki -->
+                <td></td>
+                <td bgcolor="#89E1F4"><span class="zajecia">Panc w</span><span class="info">118 45</span></td>
+                <td bgcolor="#89E1F4"><span class="zajecia">Panc w</span><span class="info">118 45</span></td>
+                <td bgcolor="#89E1F4"><span class="zajecia">Panc w</span><span class="info">118 45</span></td>
+                
+                <!-- Środy -->
+                <td bgcolor="#CDC5CD"><span class="zajecia">ZamW w</span><span class="info">117 45</span></td>
+                <td bgcolor="#CDC5CD"><span class="zajecia">ZamW w</span><span class="info">117 45</span></td>
+                <td bgcolor="#87B6EC"><span class="zajecia">UmtW w</span><span class="info">118 45</span></td>
+                <td bgcolor="#CDC5CD"><span class="zajecia">ZamW w</span><span class="info">117 45</span></td>
+                
+                <!-- Czwartki -->
+                <td bgcolor="#7EC5A9"><span class="zajecia">Zum w</span><span class="info">315a S</span></td>
+                <td bgcolor="#7EC5A9"><span class="zajecia">Zum w</span><span class="info">315a S</span></td>
+                <td bgcolor="#8DF1DF"><span class="zajecia">Zmprog PW w</span><span class="info">119 45</span></td>
+                <td bgcolor="#7EC5A9"><span class="zajecia">Zum w</span><span class="info">315a S</span></td>
+                <td bgcolor="#FFFFCE"><span class="zajecia">Mn w</span><span class="info">35 61a</span></td>
+                
+                <!-- Piątki -->
+                <td bgcolor="#C3B1F4"><span class="zajecia">Kwti w</span><span class

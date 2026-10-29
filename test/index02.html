@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Siatka Miesiąca - Październik</title>
+    <style>
+        .month-container {
+            font-family: Arial, sans-serif;
+            margin: 20px auto;
+            max-width: 900px;
+        }
+        .month-header {
+            background-color: #4A607A;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+            padding: 12px;
+            border: 2px solid #333;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        table.calendar-grid {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: fixed;
+            border: 2px solid #333;
+        }
+        /* Nagłówki dni tygodnia */
+        table.calendar-grid th {
+            background-color: #d0d7de;
+            border: 1px solid #444;
+            padding: 8px 0;
+            font-weight: bold;
+            font-size: 13px;
+            text-align: center;
+        }
+        /* Główna komórka kalendarza */
+        table.calendar-grid td {
+            border: 1px solid #ccc;
+            padding: 2px;
+            height: 80px; /* Wysokość komórki */
+            vertical-align: top;
+        }
+        /* Dni spoza bieżącego miesiąca (np. wrzesień/listopad) */
+        table.calendar-grid td.other-month {
+            background-color: #f4f4f4;
+        }
+        /* Obiekt dzielący komórkę na część górną i dolną */
+        .day-box {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            box-sizing: border-box;
+        }
+        /* Górna komórka (numer dnia) */
+        .day-number {
+            background-color: #e2e8f0;
+            font-weight: bold;
+            font-size: 12px;
+            text-align: right;
+            padding: 3px 6px;
+            border-bottom: 1px solid #cbd5e1;
+            color: #1e293b;
+        }
+        td.other-month .day-number {
+            background-color: #cbd5e1;
+            color: #64748b;
+        }
+        /* Dolna komórka (narazie pusta - na zajęcia) */
+        .day-content {
+            flex-grow: 1;
+            padding: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="month-container">
+        <div class="month-header">PAŹDZIERNIK (1 XI - 31 XI)</div>
+        <table class="calendar-grid">
+            <thead>
+                <tr>
+                    <th>pon.</th>
+                    <th>wt.</th>
+                    <th>śr.</th>
+                    <th>czw.</th>
+                    <th>pt.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Wiersz 1/5 -->
+                <tr>
+                    <td class="other-month"><div class="day-box"><div class="day-number">28 IX</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">29 IX</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">30 IX</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">1 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">2 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 2/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">5 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">6 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">7 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">8 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">9 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 3/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">12 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">13 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">14 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">15 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">16 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 4/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">19 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">20 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">21 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">22 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">23 X</div><div class="day-content"></div></div></td>
+                </tr>
+                <!-- Wiersz 5/5 -->
+                <tr>
+                    <td><div class="day-box"><div class="day-number">26 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">27 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">28 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">29 X</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">30 X</div><div class="day-content"></div></div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+   
+    <div class="month-container">
+        <div class="month-header">LISTOPAD (1 XI - 30 XI)</div>
+        <table class="calendar-grid">
+            <thead>
+                <tr>
+                    <th>pon.</th>
+                    <th>wt.</th>
+                    <th>śr.</th>
+                    <th>czw.</th>
+                    <th>pt.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">2 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">3 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">4 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">5 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">6 XI</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">9 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">10 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">11 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">12 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">13 XI</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">16 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">17 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">18 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">19 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">20 XI</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">23 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">24 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">25 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">26 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">27 XI</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">30 XI</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">1 XII</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">2 XII</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">3 XII</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">4 XII</div><div class="day-content"></div></div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="month-container">
+        <div class="month-header">GRUDZIEŃ (1 XII - 31 XII)</div>
+        <table class="calendar-grid">
+            <thead>
+                <tr>
+                    <th>pon.</th>
+                    <th>wt.</th>
+                    <th>śr.</th>
+                    <th>czw.</th>
+                    <th>pt.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="other-month"><div class="day-box"><div class="day-number">30 XI</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">1 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">2 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">3 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">4 XII</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">7 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">8 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">9 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">10 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">11 XII</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">14 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">15 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">16 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">17 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">18 XII</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">21 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">22 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">23 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">24 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">25 XII</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">28 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">29 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">30 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">31 XII</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">1 I</div><div class="day-content"></div></div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="month-container">
+        <div class="month-header">STYCZEŃ (1 I - 31 I)</div>
+        <table class="calendar-grid">
+            <thead>
+                <tr>
+                    <th>pon.</th>
+                    <th>wt.</th>
+                    <th>śr.</th>
+                    <th>czw.</th>
+                    <th>pt.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="other-month"><div class="day-box"><div class="day-number">28 XII</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">29 XII</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">30 XII</div><div class="day-content"></div></div></td>
+                    <td class="other-month"><div class="day-box"><div class="day-number">31 XII</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">1 I</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">4 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">5 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">6 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">7 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">8 I</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">11 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">12 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">13 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">14 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">15 I</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">18 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">19 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">20 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">21 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">22 I</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">25 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">26 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">27 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">28 I</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">29 I</div><div class="day-content"></div></div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="month-container">
+        <div class="month-header">LUTY (1 II - 28 II)</div>
+        <table class="calendar-grid">
+            <thead>
+                <tr>
+                    <th>pon.</th>
+                    <th>wt.</th>
+                    <th>śr.</th>
+                    <th>czw.</th>
+                    <th>pt.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">1 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">2 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">3 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">4 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">5 II</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">8 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">9 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">10 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">11 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">12 II</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">15 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">16 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">17 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">18 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">19 II</div><div class="day-content"></div></div></td>
+                </tr>
+                <tr>
+                    <td><div class="day-box"><div class="day-number">22 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">23 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">24 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">25 II</div><div class="day-content"></div></div></td>
+                    <td><div class="day-box"><div class="day-number">26 II</div><div class="day-content"></div></div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

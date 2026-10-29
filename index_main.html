@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Dynamiczny Plan Zajęć</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- GÓRNY PRZYKLEJONY PASEK MENU -->
+    <nav class="top-navbar">
+        <div class="navbar-title">
+
+           
+        </div>
+
+        <button 
+            onclick="scrollToCurrentDay()" 
+            style="background-color: #129865; color: #000000; border: 4px; padding: 8px 14px; font-size: 16px; font-weight: bold; border-radius: 4px; cursor: pointer;">
+            🎒 Aktualny dzień
+        </button>
+    </nav>
+
+    <br><br>
+    <br><br>
+    <br><br>
+
+
+    <!-- Główny kontener na wygenerowane kalendarze -->
+    <div id="calendar-app"></div>
+
+    <!-- Wczytanie generatora kalendarza -->
+
+    <script src="calendar.js?v=2"></script>
+    <script src="fill_calendar.js?v=2"></script>
+
+    <script>
+        async function initApp() {
+            // 1. Wywołanie funkcji create 4 razy dla wybranych miesięcy
+            create("X", "2026");
+            create("XI", "2026");
+            create("XII", "2026");
+            create("I", "2027");
+            create("II", "2027");
+
+            // 2. Wygenerowanie przycisków w menu
+            // renderNavMenu(months, year);
+
+            // 3. Wypełnienie kalendarza danymi z plan.json ZARAZ po stworzeniu struktury
+            // await loadAndFillPlan();
+
+            // 4. Automatyczne przejście / przewinięcie do bieżącego miesiąca
+            scrollToCurrentMonth();
+        }
+
+        // Uruchomienie po pełnym załadowaniu struktury HTML
+        window.addEventListener("DOMContentLoaded", initApp);
+        
+    </script>
+
+    <!-- Wczytanie skryptu wypełniającego plan z plan.json -->>
+
+</body>
+</html>

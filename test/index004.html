@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Siatka Miesiąca z Wektorem Godzin po Lewej</title>
+    <style>
+        .month-container {
+            font-family: Arial, sans-serif;
+            margin: 20px auto;
+            max-width: 1200px;
+        }
+        .month-header {
+            background-color: #4A607A;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+            padding: 12px;
+            border: 2px solid #333;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        table.calendar-grid {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: fixed;
+            border: 2px solid #333;
+            margin-top: 10px;
+        }
+
+        /* Nagłówki kolumn */
+        table.calendar-grid th {
+            background-color: #d0d7de;
+            border: 1px solid #444;
+            padding: 8px 0;
+            font-weight: bold;
+            font-size: 13px;
+            text-align: center;
+        }
+        table.calendar-grid th.time-header-col {
+            width: 140px;
+            background-color: #b8c4d0;
+        }
+
+        /* Komórki tabeli */
+        table.calendar-grid td {
+            border: 1px solid #ccc;
+            padding: 2px;
+            height: 280px; /* Wysokość dopasowana do 7 bloków */
+            vertical-align: top;
+        }
+        table.calendar-grid td.other-month {
+            background-color: #f8fafc;
+        }
+
+        /* Obiekt dzielący komórkę na część górną (nagłówek) i dolną (zawartość) */
+        .day-box {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            box-sizing: border-box;
+        }
+
+        /* Górna połówka komórki */
+        .day-number {
+            background-color: #e2e8f0;
+            font-weight: bold;
+            font-size: 12px;
+            text-align: right;
+            padding: 4px 6px;
+            border-bottom: 1px solid #cbd5e1;
+            color: #1e293b;
+            height: 22px;
+            line-height: 22px;
+            box-sizing: border-box;
+        }
+        .time-box .day-number {
+            text-align: center;
+            background-color: #cbd5e1;
+        }
+        td.other-month .day-number {
+            background-color: #cbd5e1;
+            color: #64748b;
+        }
+
+        /* Dolna połówka komórki: Wektor 7x1 */
+        .day-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 2px 0;
+            gap: 2px;
+        }
+
+        /* Pojedynczy slot z wektora 7x1 */
+        .block-slot {
+            flex: 1;
+            border: 1px dashed #cbd5e1;
+            border-radius: 3px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-size: 10px;
+            text-align: center;
+            overflow: hidden;
+            box-sizing: border-box;
+            padding: 1px;
+            background-color: #ffffff;
+        }
+
+        /* Wektor siatki godzin po lewej stronie */
+        .time-slot-label {
+            background-color: #f1f5f9;
+            border: 1px solid #cbd5e1;
+            font-weight: bold;
+        }
+        .slot-title {
+            font-size: 10px;
+            color: #0f172a;
+            font-weight: bold;
+        }
+        .slot-time {
+            font-size: 9px;
+            color: #475569;
+        }
+
+        /* Formatowanie wpisanego bloku zajęć (dane JSON) */
+        .class-card {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-radius: 2px;
+            box-sizing: border-box;
+        }
+        .class-title {
+            font-weight: bold;
+            font-size: 11px;
+        }
+        .class-info {
+            font-size: 9px;
+            opacity: 0.85;
+        }
+    </style>
+</head>
+<body>
+
+<div class="month-container">
+    <div class="month-header">PAŹDZIERNIK (1 X - 31 X)</div>
+    
+    <table class="calendar-grid">
+        <thead>
+            <tr>
+                <th class="time-header-col">Bloki zajęć</th>
+                <th>pon.</th>
+                <th>wt.</th>
+                <th>śr.</th>
+                <th>czw.</th>
+                <th>pt.</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- WIERSZ 1 / TYDZIEŃ 1 -->
+            <tr>
+                <!-- Lewa kolumna: Siatka bloków godzinowych (Wektor 7x1) -->
+                <td class="time-col">
+                    <div class="day-box time-box">
+                        <div class="day-number">Godziny</div>
+                        <div class="day-content">
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 1-2</div><div class="slot-time">08:00 – 09:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 3-4</div><div class="slot-time">09:50 – 11:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 5-6</div><div class="slot-time">11:40 – 13:15</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 7-8</div><div class="slot-time">13:30 – 15:05</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 9-10</div><div class="slot-time">16:00 – 17:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 11-12</div><div class="slot-time">17:50 – 19:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 13-14</div><div class="slot-time">19:40 – 21:15</div></div>
+                        </div>
+                    </div>
+                </td>
+
+                <!-- Poniedziałek 28 IX -->
+                <td class="other-month">
+                    <div class="day-box">
+                        <div class="day-number">28 IX</div>
+                        <div class="day-content">
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                        </div>
+                    </div>
+                </td>
+
+                <!-- Wtorek 29 IX -->
+                <td class="other-month">
+                    <div class="day-box">
+                        <div class="day-number">29 IX</div>
+                        <div class="day-content">
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                        </div>
+                    </div>
+                </td>
+
+                <!-- Środa 30 IX -->
+                <td class="other-month">
+                    <div class="day-box">
+                        <div class="day-number">30 IX</div>
+                        <div class="day-content">
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                        </div>
+                    </div>
+                </td>
+
+                <!-- Czwartek 1 X -->
+                <td>
+                    <div class="day-box">
+                        <div class="day-number">1 X</div>
+                        <div class="day-content">
+                            <!-- Przykład umieszczenia obiektu danych w dolnej komórce -->
+                            <div class="block-slot">
+                                <div class="class-card" style="background-color: #7EC5A9;">
+                                    <span class="class-title">Zum w</span>
+                                    <span class="class-info">315a S</span>
+                                </div>
+                            </div>
+                            <div class="block-slot">
+                                <div class="class-card" style="background-color: #87B6EC;">
+                                    <span class="class-title">UmtW w</span>
+                                    <span class="class-info">118 45</span>
+                                </div>
+                            </div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                        </div>
+                    </div>
+                </td>
+
+                <!-- Piątek 2 X -->
+                <td>
+                    <div class="day-box">
+                        <div class="day-number">2 X</div>
+                        <div class="day-content">
+                            <div class="block-slot">
+                                <div class="class-card" style="background-color: #C3B1F4;">
+                                    <span class="class-title">Kwti w</span>
+                                    <span class="class-info">4 41</span>
+                                </div>
+                            </div>
+                            <div class="block-slot">
+                                <div class="class-card" style="background-color: #B188D0;">
+                                    <span class="class-title">UkrW w</span>
+                                    <span class="class-info">116 45</span>
+                                </div>
+                            </div>
+                            <div class="block-slot">
+                                <div class="class-card" style="background-color: #8DF1DF;">
+                                    <span class="class-title">Zmprog PW w</span>
+                                    <span class="class-info">119 45</span>
+                                </div>
+                            </div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+
+            <!-- WIERSZ 2 / TYDZIEŃ 2 -->
+            <tr>
+                <td class="time-col">
+                    <div class="day-box time-box">
+                        <div class="day-number">Godziny</div>
+                        <div class="day-content">
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 1-2</div><div class="slot-time">08:00 – 09:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 3-4</div><div class="slot-time">09:50 – 11:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 5-6</div><div class="slot-time">11:40 – 13:15</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 7-8</div><div class="slot-time">13:30 – 15:05</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 9-10</div><div class="slot-time">16:00 – 17:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 11-12</div><div class="slot-time">17:50 – 19:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 13-14</div><div class="slot-time">19:40 – 21:15</div></div>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="day-box">
+                        <div class="day-number">5 X</div>
+                        <div class="day-content">
+                            <div class="block-slot">
+                                <div class="class-card" style="background-color: #FFFFCE;">
+                                    <span class="class-title">Mn w</span>
+                                    <span class="class-info">35 61a</span>
+                                </div>
+                            </div>
+                            <div class="block-slot">
+                                <!-- Przykład z przesłanej struktury JSON -->
+                                <div class="class-card" style="background-color: #96C4EE;">
+                                    <span class="class-title">Ikwm w</span>
+                                    <span class="class-info">19 47</span>
+                                </div>
+                            </div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                            <div class="block-slot"></div>
+                        </div>
+                    </div>
+                </td>
+                <td><div class="day-box"><div class="day-number">6 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">7 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">8 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">9 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+            </tr>
+
+            <!-- WIERSZE 3, 4, 5 ZACHOWUJĄ DOKŁADNIE TĘ SAMĄ STRUKTURĘ WEKTOROWĄ -->
+            <tr>
+                <td class="time-col">
+                    <div class="day-box time-box">
+                        <div class="day-number">Godziny</div>
+                        <div class="day-content">
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 1-2</div><div class="slot-time">08:00 – 09:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 3-4</div><div class="slot-time">09:50 – 11:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 5-6</div><div class="slot-time">11:40 – 13:15</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 7-8</div><div class="slot-time">13:30 – 15:05</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 9-10</div><div class="slot-time">16:00 – 17:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 11-12</div><div class="slot-time">17:50 – 19:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 13-14</div><div class="slot-time">19:40 – 21:15</div></div>
+                        </div>
+                    </div>
+                </td>
+                <td><div class="day-box"><div class="day-number">12 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">13 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">14 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">15 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">16 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+            </tr>
+            <tr>
+                <td class="time-col">
+                    <div class="day-box time-box">
+                        <div class="day-number">Godziny</div>
+                        <div class="day-content">
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 1-2</div><div class="slot-time">08:00 – 09:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 3-4</div><div class="slot-time">09:50 – 11:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 5-6</div><div class="slot-time">11:40 – 13:15</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 7-8</div><div class="slot-time">13:30 – 15:05</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 9-10</div><div class="slot-time">16:00 – 17:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 11-12</div><div class="slot-time">17:50 – 19:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 13-14</div><div class="slot-time">19:40 – 21:15</div></div>
+                        </div>
+                    </div>
+                </td>
+                <td><div class="day-box"><div class="day-number">19 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">20 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">21 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">22 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">23 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+            </tr>
+            <tr>
+                <td class="time-col">
+                    <div class="day-box time-box">
+                        <div class="day-number">Godziny</div>
+                        <div class="day-content">
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 1-2</div><div class="slot-time">08:00 – 09:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 3-4</div><div class="slot-time">09:50 – 11:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 5-6</div><div class="slot-time">11:40 – 13:15</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 7-8</div><div class="slot-time">13:30 – 15:05</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 9-10</div><div class="slot-time">16:00 – 17:35</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 11-12</div><div class="slot-time">17:50 – 19:25</div></div>
+                            <div class="block-slot time-slot-label"><div class="slot-title">Blok 13-14</div><div class="slot-time">19:40 – 21:15</div></div>
+                        </div>
+                    </div>
+                </td>
+                <td><div class="day-box"><div class="day-number">26 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">27 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">28 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">29 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+                <td><div class="day-box"><div class="day-number">30 X</div><div class="day-content"><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div><div class="block-slot"></div></div></div></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
